@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CocytusDEDI
+- 👀 I’m interested in most of computer science
+- 🌱 I’m currently learning c#

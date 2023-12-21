@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @CocytusDEDI
-- 👀 I’m interested in open source projects
-- 🌱 I’m currently trying out different fields of computer science
+- 👀 I’m interested in open source projects.
+- 👾 I specialise in cyber security.

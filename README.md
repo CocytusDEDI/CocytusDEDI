@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @CocytusDEDI
 - 👀 I’m interested in FOSS (free and open-source software).
-- 👾 I specialise in cyber security.
-- 🔗 You can find more details about me on my website: https://cocytusdedi.github.io/

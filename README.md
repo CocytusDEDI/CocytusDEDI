@@ -1,3 +1,2 @@
-I've moved to GitLab for the most part since it's open source. I'll still use github if I need to contribute to any projects on here.
+I do programming focused on Rust in the low level space, particularly for the RISC-V architecture, with my work prioritising new technologies. Along with low level development I have worked in integrating my physics realistic magic system library for Godot. My newer work can be found on [GitLab](https://gitlab.com/CocytusDEDI).
 
-I’m interested in FOSS (free and open-source software) and want to spend my time developing it. If you're hesitant to reach out, don't be!
